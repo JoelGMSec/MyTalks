@@ -14,3 +14,8 @@ For more information follow me on [darkbyte.net](https://darkbyte.net) and [twit
 
 ![AutoRDPwn_c0r0n4CON_2020](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework/images/AutoRDPwn_c0r0n4CON_2020.png)
 [AutoRDPwn: The Shadow Attack Framework [c0r0n4CON 2020]](https://github.com/JoelGMSec/SlideShow/blob/master/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework%20%5Bc0r0n4CON_2020%5D.pdf)
+
+## AutoRDPwn: The Shadow Attack Framework [BlackHat USA 2020]
+
+![AutoRDPwn_BH_USA2020](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework/images/AutoRDPwn_BH_USA2020.png)
+[AutoRDPwn: The Shadow Attack Framework [BlackHat USA 2020]](https://github.com/JoelGMSec/SlideShow/blob/master/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework/AutoRDPwn%20-%20The%20Shadow%20Attack%20Framework%20%5BBH_USA2020_Arsenal%5D.pdf)
