@@ -1,8 +1,8 @@
-# Congress slide show collection
+# Congress Slides Collection
 
-Slide show collection of computer security and ethical hacking congresses by Joel Gámez Molina // @JoelGMSec
+Slides collection of computer security and ethical hacking congresses by Joel Gámez Molina // @JoelGMSec
 
-For more information follow me on [darkbyte.net](https://darkbyte.net) and [twitter](https://twitter.com/JoelGMSec)
+For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twitter](https://twitter.com/JoelGMSec)
 
 
 ## AutoRDPwn: The Shadow Attack Framework [h-c0n 2020]
