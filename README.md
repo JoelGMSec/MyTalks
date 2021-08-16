@@ -23,9 +23,9 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 ## Cloudtopolis: Cracking hashes in the Cloud (for free!) [Bitup 2020]
 
 ![Cloudtopolis_Bitup_2020](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/images/Cloudtopolis_Bitup_2020.png)
-[Cloudtopolis: Cracking hashes in the Cloud (for free!) [Bitup 2020]](https://github.com/JoelGMSec/SlideShow/blob/master/Cloudtopolis%20-%20Cracking%20hashes%20in%20the%20Cloud%20%28for%20free%21%29/Cloudtopolis%20-%20Cracking%20hashes%20in%20the%20Cloud%20%28for%20free%21%29%20%5BBitup_2020%5D.pdf)
+[Cloudtopolis: Cracking hashes in the Cloud (for free!) [Bitup 2020]](https://github.com/JoelGMSec/MyTalks/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/Cloudtopolis%20-%20Cracking%20hashes%20in%20the%20Cloud%20(for%20free!)%20%5BBitup_2020%5D.pdf)
 
 ## Cloudtopolis: Zero Infrastructure Password Cracking [BlackHat USA 2021]
 
 ![Cloudtopolis_BH_USA2021](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/images/Cloudtopolis_BH_USA2021.png)
-[Cloudtopolis: Zero Infrastructure Password Cracking [BlackHat USA 2021]](https://github.com/JoelGMSec/SlideShow/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking%20%5BBH_USA2021_Arsenal%5D.pdf)
+[Cloudtopolis: Zero Infrastructure Password Cracking [BlackHat USA 2021]](https://github.com/JoelGMSec/MyTalks/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking%20%5BBH_USA2021_Arsenal%5D.pdf)
