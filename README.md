@@ -29,3 +29,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Cloudtopolis_BH_USA2021](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/images/Cloudtopolis_BH_USA2021.png)
 [Cloudtopolis: Zero Infrastructure Password Cracking [BlackHat USA 2021]](https://github.com/JoelGMSec/MyTalks/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking%20%5BBH_USA2021_Arsenal%5D.pdf)
+
+## Cloudtopolis: Zero Infrastructure Password Cracking [EkoParty 2021]
+
+![Cloudtopolis_BH_USA2021](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/images/Cloudtopolis_EkoParty2021.png)
+[Cloudtopolis: Zero Infrastructure Password Cracking [EkoParty 2021]](https://github.com/JoelGMSec/MyTalks/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking%20%5BEkoParty2021_RedTeamZone%5D.pdf)
