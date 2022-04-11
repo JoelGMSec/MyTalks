@@ -34,3 +34,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Cloudtopolis_BH_USA2021](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/images/Cloudtopolis_EkoParty2021.png)
 [Cloudtopolis: Zero Infrastructure Password Cracking [EkoParty 2021]](https://github.com/JoelGMSec/MyTalks/blob/master/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking/Cloudtopolis%20-%20Zero%20Infrastructure%20Password%20Cracking%20%5BEkoParty2021_RedTeamZone%5D.pdf)
+
+## Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [ViCON 2022]
+
+![Invoke-DNSteal_ViCON_2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_ViCON_2022.png)
+[Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [ViCON 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrando%20Informacion%20DNS%20Like%20a%20Boss.pdf)
