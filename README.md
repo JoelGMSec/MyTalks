@@ -38,4 +38,9 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 ## Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [ViCON 2022]
 
 ![Invoke-DNSteal_ViCON_2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_ViCON_2022.png)
-[Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [ViCON 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrando%20Informacion%20DNS%20Like%20a%20Boss.pdf)
+[Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [ViCON 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrando%20Informacion%20DNS%20Like%20a%20Boss%20%5BViCON_2022%5D.pdf)
+
+## Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [EuskalHack 2022]
+
+![Invoke-DNSteal_EuskalHack_2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_EuskalHack_2022.png)
+[Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [EuskalHack 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrando%20Informacion%20DNS%20Like%20a%20Boss%20%5BEuskalHack_2022%5D.pdf)
