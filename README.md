@@ -1,6 +1,6 @@
-# Congress Slides Collection
+# My talks
 
-Slides collection of computer security and ethical hacking congresses by Joel Gámez Molina // @JoelGMSec
+Collection of slides on cybersecurity and ethical hacking by Joel Gámez Molina // @JoelGMSec
 
 For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twitter](https://twitter.com/JoelGMSec)
 
@@ -44,3 +44,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Invoke-DNSteal_EuskalHack_2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_EuskalHack_2022.png)
 [Invoke-DNSteal: Exfiltrando Informacion DNS Like a Boss [EuskalHack 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrando%20Informacion%20DNS%20Like%20a%20Boss%20%5BEuskalHack_2022%5D.pdf)
+
+## Invoke-DNSteal: Exfiltrating DNS information "Like a Boss" [BlackHat EU 2022]
+
+![Invoke-DNSteal_BH_EU2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_BH_EU2022.png)
+[Invoke-DNSteal: Exfiltrating DNS information "Like a Boss" [BlackHat EU 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrating%20DNS%20information%20Like%20a%20Boss%20%5BBlackHat_EU_2022%5D.pdf)
