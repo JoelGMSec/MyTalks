@@ -49,3 +49,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Invoke-DNSteal_BH_EU2022](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/images/Invoke-DNSteal_BH_EU2022.png)
 [Invoke-DNSteal: Exfiltrating DNS information "Like a Boss" [BlackHat EU 2022]](https://github.com/JoelGMSec/MyTalks/blob/master/Invoke-DNSteal%20-%20Simple%20%26%20Customizable%20DNS%20Data%20Exfiltrator/Invoke-DNSteal%20-%20Exfiltrating%20DNS%20information%20Like%20a%20Boss%20%5BBlackHat_EU_2022%5D.pdf)
+
+## Thunderstorm: Turning off the lights in your Data Center [h-c0n 2023]
+
+![Thunderstorm_hc0n_2023](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/images/Thunderstorm_h-c0n_2023.png)
+[Thunderstorm: Turning off the lights in your Data Center [h-c0n 2023]](https://github.com/JoelGMSec/SlideShow/blob/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center%20%5Bh-c0n_2023%5D.pdf)
