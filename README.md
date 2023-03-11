@@ -58,5 +58,5 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ## EvilnoVNC: Next-Gen Spear Phishing Attacks [RootedCON 2023]
 
-![EvilnoVNC_RootedCON_2023](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/EvilnoVNC%20-%20Next-Gen%20Spear%20Phishing%20Attacks/images/EvilnoVNC_RootedCON_2023.png)
+![EvilnoVNC_RootedCON_2023](https://raw.githubusercontent.com/JoelGMSec/MyTalks/master/EvilnoVNC%20-%20Ready%20to%20go%20Phishing%20Platform/images/EvilnoVNC_RootedCON_2023.png)
 [EvilnoVNC: Next-Gen Spear Phishing Attacks [RootedCON 2023]](https://github.com/JoelGMSec/SlideShow/blob/master/EvilnoVNC%20-%20Next-Gen%20Spear%20Phishing%20Attacks/EvilnoVNC%20-%20Next-Gen%20Spear%20Phishing%20Attacks%20%5BRootedCON_2023%5D.pdf)
