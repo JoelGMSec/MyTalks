@@ -79,3 +79,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Thunderstorm_Navaja-Negra_2023](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/images/Thunderstorm_Navaja-Negra_2023.png)
 [Thunderstorm: Turning off the lights in your Data Center [Navaja Negra 2023]](https://github.com/JoelGMSec/MyTalks/blob/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center%20%5BNavaja-Negra_2023%5D.pdf)
+
+## Thunderstorm: Turning off the lights in your Data Center [DeepSec 2023]
+
+![Thunderstorm_DeepSec_2023](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/images/Thunderstorm_DeepSec_2023.png)
+[Thunderstorm: Turning off the lights in your Data Center [DeepSec 2023]](https://github.com/JoelGMSec/MyTalks/blob/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center%20%5BDeepSec_2023%5D.pdf)
