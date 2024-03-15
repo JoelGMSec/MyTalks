@@ -84,3 +84,8 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Thunderstorm_DeepSec_2023](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/images/Thunderstorm_DeepSec_2023.png)
 [Thunderstorm: Turning off the lights in your Data Center [DeepSec 2023]](https://github.com/JoelGMSec/MyTalks/blob/master/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center/Thunderstorm%20-%20Turning%20off%20the%20lights%20in%20your%20Data%20Center%20%5BDeepSec_2023%5D.pdf)
+
+## Kitsune: One C2 to Control them All [RootedCON 2024]
+
+![Kitsune_RootedCON_2024](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All/images/Kitsune_RootedCON_2024.png)
+[Kitsune: One C2 to Control them All [RootedCON 2024]](https%3A%2F%2Fgithub.com%2FJoelGMSec%2FMyTalks%2Fblob%2Fmaster%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%20%5BRootedCON_2024%5D.pdf)
