@@ -89,3 +89,18 @@ For more information, follow me on [darkbyte.net](https://darkbyte.net) and [twi
 
 ![Kitsune_RootedCON_2024](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All/images/Kitsune_RootedCON_2024.jpg)
 [Kitsune: One C2 to Control them All [RootedCON 2024]](https://github.com/JoelGMSec/MyTalks/blob/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%20%5BRootedCON_2024%5D.pdf)
+
+## Kitsune: One C2 to Control them All [Hack-én 2024]
+
+![Kitsune_RootedCON_2024](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All/images/Kitsune_Hack-en_2024.jpg)
+[Kitsune: One C2 to Control them All [Hack-én 2024]](https://github.com/JoelGMSec/MyTalks/blob/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%20%5BHack-en_2024%5D.pdf)
+
+## Kitsune: One C2 to Control them All [HackInBo 2024]
+
+![Kitsune_RootedCON_2024](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All/images/Kitsune_HackInBo_2024.jpg)
+[Kitsune: One C2 to Control them All [HackInBo 2024]](https://github.com/JoelGMSec/MyTalks/blob/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%20%5BHackInBo_2024%5D.pdf)
+
+## Kitsune: One C2 to Control them All [UAD360 2024]
+
+![Kitsune_RootedCON_2024](https://raw.githubusercontent.com/JoelGMSec/SlideShow/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All/images/Kitsune_UAD360_2024.jpg)
+[Kitsune: One C2 to Control them All [UAD360 2024]](https://github.com/JoelGMSec/MyTalks/blob/master/Kitsune%20-%20One%20C2%20to%20Control%20them%20All%2FKitsune%20-%20One%20C2%20to%20Control%20them%20All%20%5BUAD360_2024%5D.pdf)
